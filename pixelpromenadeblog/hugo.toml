@@ -1,0 +1,5 @@
+baseURL = 'https://pixelpromenade.github.io/'
+languageCode = 'en-us'
+title = 'Pixel promenade'
+
+theme = 'hugo-PaperMod'

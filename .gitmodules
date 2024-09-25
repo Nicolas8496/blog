@@ -1,0 +1,8 @@
+[submodule "pixelpromenadeblog/pixelpromenade.github.io"]
+	path = pixelpromenadeblog/pixelpromenade.github.io
+	url = https://github.com/Nicolas8496/pixelpromenade.github.io.git
+	branch = main
+[submodule "pixelpromenadeblog/public"]
+	path = pixelpromenadeblog/public
+	url = https://github.com/Nicolas8496/pixelpromenade.github.io.git
+	branch = main
